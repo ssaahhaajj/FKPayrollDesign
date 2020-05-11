@@ -1,6 +1,8 @@
 import java.util.Scanner;
 import java.util.Date;
+
 public class Employee {
+    
     // Internal Variables
     private static int ID;
     private boolean permission=false;
